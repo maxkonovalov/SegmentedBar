@@ -12,6 +12,7 @@ Customizable UISegmentedControl-like bar.
   s.author           = { 'Max Konovalov' => 'konovalovmy@gmail.com' }
   s.source           = { :git => 'https://github.com/maxkonovalov/SegmentedBar.git', :tag => s.version.to_s }
 
+  s.swift_version = '4.2'
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'SegmentedBar/**/*.swift'
